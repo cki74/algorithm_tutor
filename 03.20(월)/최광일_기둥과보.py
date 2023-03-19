@@ -4,7 +4,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/60061
 
 테스트 케이스 2개 통과 ㅠㅠ
 
-1) 생성 로직만 재점검 필요
+1) 생성 로직 재점검 필요
 2) 삭제 규칙 재확인 후 로직 오류 수정 필요
 
 
